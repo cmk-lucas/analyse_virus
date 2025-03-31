@@ -19,11 +19,13 @@ Ce projet est un logiciel de détection de virus et d'analyse réseau développ�
    ```sh
    git clone https://github.com/cherubinmanunga/virus-scanner.git
    cd virus-scanner
+   ```
+
 # Exécution du script
 
 ```sh
 python virus_scanner.py
-'''
+```
 
 # Utilisation
 
