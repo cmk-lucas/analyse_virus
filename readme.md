@@ -23,6 +23,8 @@ Ce projet est un logiciel de détection de virus et d'analyse réseau développ�
 
 ```sh
 python virus_scanner.py
+'''
+
 # Utilisation
 
 - **Scanner un système** : Cliquez sur "Lancer le scan système" pour analyser les fichiers.
